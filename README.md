@@ -12,7 +12,3 @@ Problem Set 4 - implement a program that manipulates colors and sizes BMP files.
 Problem Set 5 -Implement a simple English language spell checker. (language: C)
 
 Problem Set 6 - Port programs from Problem Set 1 & 2 from C to Python. (language: Python)
-
-Problem Set 7 - Implement a simple stock trading website. (languages: Python, SQL, HTML, CSS)
-
-Problem Set 8 - Implement an interactive map that shows news headlines in a city when selected. (languages: Python, SQL, JavaScript, HTML, CSS)
