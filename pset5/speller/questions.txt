@@ -1,0 +1,7 @@
+0.  A pneumoconiosis caused by inhalation of very fine silicate or quartz dust.
+1.  The function returns the reasource usage measures.
+2.  There are 16 members.
+3.  Becasue otherwise copies of the variables would be made.
+4.  Main will spell check each word by first checking to see if the first character is a letter. If it is not then it is ignored. Otherwise it will get the rest of the letters or apostrophes from the word and load it into the word array. Once it has found the end of the word then it checks the word with the check function. Then all the counters are modified appropriately.
+5.  We would have to create a lot more parameters for fscanf.
+6.  So that the function can only accept varibles of type char*.
